@@ -1,4 +1,4 @@
-![logo](https://github.com/Solomonkassa/Solomonkassa/blob/main/hbnb.png)
+![logo](https://github.com/gerbastudent01/blob/main/hbnb.png)
 
 # Airbnb Console Project.
 ------------------------------------------------------------------------------------------------------------------------------
@@ -9,7 +9,7 @@ This Airbnb Console Project is a command-line interface tool that allows user to
 To get started with this project, you'll need to have Python3 installed on your system. You can download the latest version of Python from the official website. Once you have Python installed, you can clone the repository and install the necessary dependencies using pip:
 
 ```
-git clone https://github.com/solomonkassa/AirBnB_clone.git
+git clone https://github.com/gerbastudent01/AirBnB_clone.git
 cd AirBnB_clone
 pip install -r requirements.txt
 ```
@@ -47,9 +47,8 @@ This is an open-source project, and contributions are welcome! If you'd like to 
 
 ### Contributors
 
-- [Solomon Kassa](https://github.com/Solomonkassa/)
-- [Mekonen Feleke](https://github.com/MokiEng/)
+- [gerbastudent01](https://github.com/gerbastudent01/)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Solomonkassa/AirBnB_clone/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/gerbastudent01/AirBnB_clone/blob/main/LICENSE) file for details.
