@@ -1,4 +1,4 @@
-![logo](https://github.com/gerbastudent01/blob/main/hbnb.png)
+![logo](https://github.com/gerbastudent01/AirBnB_clone/blob/master/hbnb.png)
 
 # Airbnb Console Project.
 ------------------------------------------------------------------------------------------------------------------------------
